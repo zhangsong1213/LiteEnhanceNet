@@ -6,7 +6,7 @@ import time
 from tqdm import tqdm
 from model import *
 from dataloader import myDataSet
-# from metrics_calculation import *
+from metrics_calculation import *
 import os
 
 import time
