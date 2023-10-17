@@ -1,4 +1,4 @@
-# EnahnceNet: LiteEnhanceNet: A Lightweight Network for Realtime Single Underwater Image Enhancement 
+# EnahnceNet: LiteEnhanceNet: A Lightweight Network for Real_time Single Underwater Image Enhancement 
 
 ## Train the Model
 python training.py
