@@ -1,4 +1,4 @@
-import torchssss
+import torch
 import torch.nn as nn
 
 def swish(x):
