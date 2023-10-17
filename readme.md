@@ -1,6 +1,7 @@
 # EnahnceNet: LiteEnhanceNet: A Lightweight Network for Realtime Single Underwater Image Enhancement 
 
-This is a testing project, and when the article is accepted, we will release the complete code
+## Train the Model
+python training.py
 
 ## Test the Model
 python test.py
